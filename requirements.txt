@@ -1,0 +1,4 @@
+telebot
+fake-useragent
+requests
+pytz
